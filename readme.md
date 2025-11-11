@@ -2,7 +2,7 @@
 
 ```markdown
 # E-Learning Automation Bot
-
+```
 This project automates learning on the OCSC Learning Portal using Selenium. It handles login via cookies, tracks lesson progress, and sends real-time updates via Telegram.
 
 ---
