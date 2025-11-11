@@ -1,0 +1,21 @@
+# Virtual environment
+env/*
+venv/
+
+config.py
+# Python cache
+__pycache__/*
+*.pyc
+
+# Cookies and session data
+cookies.json
+
+# Screenshots
+screenshot.png
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
